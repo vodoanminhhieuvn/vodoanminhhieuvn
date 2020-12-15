@@ -4,6 +4,10 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@sv225?theme=rule34"></a>
 </p>
 
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 每周工作报告</a>
+<!-- waka-box end -->
+
 <!--
 **vodoanminhhieuvn/vodoanminhhieuvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
