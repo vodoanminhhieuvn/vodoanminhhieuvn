@@ -5,7 +5,6 @@
 </p>
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 每周工作报告</a>
 <!-- waka-box end -->
 
 <!--
